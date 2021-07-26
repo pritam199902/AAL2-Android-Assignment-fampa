@@ -23,7 +23,7 @@ function HC3Card({ data }) {
     };
 
     const handleClick =()=>{
-        setShow(false)
+        // setShow(false)
     }
 
     const defaultOptions = {

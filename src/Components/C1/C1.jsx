@@ -19,7 +19,7 @@ function C1({data}) {
                 display: "flex",
                 flexDirection: 'row',
                 overflowX: c_data.is_scrollable ? 'auto' : 'hidden',
-                justifyContent: 'space-between',
+                justifyContent: 'flex-start',
 
             }}>
 
