@@ -1,0 +1,27 @@
+.c1-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sub-div{
+    align-items: center; 
+    width: 100%;
+}
+
+.c1-title{
+    font-size: 18px;
+    font-weight:500;
+    padding: 0px 10px;
+}
+
+.c1-desc{
+    font-size: 14px;
+    padding: 0px 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
